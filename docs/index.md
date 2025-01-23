@@ -25,10 +25,7 @@ Here is version 2
 
 <pre class="highlight">
 java -Dlog4j2.configurationFile=log4j2-daemon.xml \
-  ‑Dsndml.logFolder=<var>path_to_log_directory</var> ‑Dsndml.logPrefix=<var>name_of_agent</var> \
-  -jar <var>path_to_jar</var> -p <var>path_to_connection_profile</var> --scan
+  ‑Dsndml.logFolder=<var>log-directory</var> ‑Dsndml.logPrefix=<var>agent-name</var> \
+  -jar <var>jar-file</var> -p <var>connection-profile</var> --scan
 </pre>
 
-
-## Custom CSS Test 1
-Here is some <var>bright red</var> text.
