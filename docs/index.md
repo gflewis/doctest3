@@ -18,3 +18,6 @@ java -Dlog4j2.configurationFile=log4j2-daemon.xml \
   ‑Dsndml.logPrefix=<small><var>&lt;name_of_agent&gt;</var></small> \
   -jar <small><var>&lt;path_to_jar&gt;</var></small> -p <small><var>&lt;path_to_connection_profile&gt;</var></small> --scan
 </pre>
+
+## Custom CSS Test 1
+Here is some <span class="my-red">bright read text</span>.
