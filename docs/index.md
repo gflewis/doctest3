@@ -20,4 +20,4 @@ java -Dlog4j2.configurationFile=log4j2-daemon.xml \
 </pre>
 
 ## Custom CSS Test 1
-Here is some <var style="color: blue;">bright red</var> text.
+Here is some <var>bright red</var> text.
