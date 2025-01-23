@@ -25,7 +25,7 @@ Here is version 2
 
 <pre class="highlight">
 java -Dlog4j2.configurationFile=log4j2-daemon.xml \
-  ‑Dsndml.logFolder=<var>path_to_log_directory</var> ‑Dsndml.logPrefix=<var>&lt;name_of_agent&gt;</var> \
+  ‑Dsndml.logFolder=<var>path_to_log_directory</var> ‑Dsndml.logPrefix=<var>name_of_agent</var> \
   -jar <var>path_to_jar</var> -p <var>path_to_connection_profile</var> --scan
 </pre>
 
