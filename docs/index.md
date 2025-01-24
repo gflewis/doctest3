@@ -1,5 +1,5 @@
 ---
-layout: index
+description: welcome to doctest
 ---
 
 ## Good Morning
