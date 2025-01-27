@@ -6,6 +6,12 @@ layout: index
 ## Good Morning
 Welcome to doctest3.
 
+Donec lorem velit, porta ut laoreet at, ornare sed ligula. 
+Quisque scelerisque, dui a dignissim placerat, velit augue blandit arcu, vel molestie mi ligula in turpis.
+Nullam vitae malesuada neque. Mauris commodo nunc sed semper tincidunt. Phasellus vitae enim sit amet ipsum aliquet tempor. 
+Etiam posuere libero sed mollis finibus. Fusce feugiat vestibulum turpis in imperdiet. 
+Nulla rutrum justo et ligula venenatis, sit amet molestie nibh sodales.
+
 And here is something else.  Blah, blah.
 
 ## Version 1
