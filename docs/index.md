@@ -4,7 +4,9 @@ layout: index
 ---
 
 ## Good Morning
-Welcome to doctest3
+Welcome to doctest3.
+
+And here is something else.  Blah, blah.
 
 ## Version 1
 Here is version 1
